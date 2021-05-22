@@ -7,5 +7,5 @@ This uses the menu from week 6. The two new components are:
 
 The styling for the buttons in OrderFood is based on the example from https://reactnative.dev/docs/button
 
-Until I get the GitHub Pages running, here is a link to the expo snack that I used for testing:
+Until I get the GitHub Pages running because it keeps saying that it cannot resolve 'react-native', here is a link to the expo snack that I used for testing:
 https://snack.expo.io/@courtcodes/portfolio-1
